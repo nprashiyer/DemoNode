@@ -4,7 +4,7 @@
   "description": "DemoApp",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "twistlock/defender app-embedded node index.js"
   },
   "keywords": [
     "Demo"
